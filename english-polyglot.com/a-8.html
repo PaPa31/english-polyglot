@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Lazyload</title>
+	<style>
+
+		
+.svg-container { 
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	padding-bottom: 100%; 
+	vertical-align: middle; 
+	overflow: hidden; 
+}
+.svg-content {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+	</style>
+</head>
+
+<body>
+	
+	
+	<style>
+		
+	.blur-up {
+		-webkit-filter: blur(5px);
+		filter: blur(5px);
+		transition: filter 400ms, -webkit-filter 400ms;
+	}
+
+	.blur-up.lazyloaded {
+		-webkit-filter: blur(0);
+		filter: blur(0);
+	}
+</style>
+	
+    <figure>	
+        <div class="inside">
+         
+			
+				
+            <picture>
+            <source
+            media="(max-width: 767px)"
+            sizes="(max-width: 767px) 100vw, 767px"
+            srcset="
+            z-8/page0_kmfh8k_c_scale,w_200.png 200w,
+            z-8/page0_kmfh8k_c_scale,w_767.png 767w">
+            <source
+            media="(min-width: 768px) and (max-width: 991px)"
+            sizes="(max-width: 991px) 100vw, 991px"
+            srcset="
+            z-8/page0_kmfh8k_c_scale,w_768.png 768w,
+            z-8/page0_kmfh8k_c_scale,w_991.png 991w">
+            <source
+            media="(min-width: 992px) and (max-width: 1199px)"
+            sizes="(max-width: 1199px) 100vw, 1199px"
+            srcset="
+            z-8/page0_kmfh8k_c_scale,w_992.png 992w,
+            z-8/page0_kmfh8k_c_scale,w_1199.png 1199w">
+            <img
+            sizes="(max-width: 1380px) 100vw, 1380px"
+            srcset="
+            z-8/page0_kmfh8k_c_scale,w_1200.png 1200w,
+            z-8/page0_kmfh8k_c_scale,w_1380.png 1380w"
+            src="z-8/page0_kmfh8k_c_scale,w_1380.png"
+            alt="">
+            </picture>
+            
+           
+			<figcaption>8 png images </figcaption>
+        </div>
+
+
+    </figure>
+
+	<script src="js/lazysizes.min.js" async></script>
+</body>
+</html>
