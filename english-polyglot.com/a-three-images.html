@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Lazyload</title>
 	<style>
-		img{width:100%;height:auto}
+		.inside img{width:100%;height:auto}
 		
 .svg-container { 
 	display: inline-block;
@@ -39,13 +39,45 @@
 	}
 </style>
 	
-	<!--320px -->
-	<img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/tablica-glagolov-petrova-image_tumli1_c_scale,w_320.jpg" class="lazyload" alt />
-	
-	<!--640px (DPR 2.0) -->
-	<img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/tablica-glagolov-petrova-image_tumli1_c_scale,w_640.jpg" class="lazyload" alt />	
-	<!--660px-->
-	<img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/tablica-glagolov-petrova-image_tumli1_c_scale,w_660.jpg" class="lazyload" alt />
+    <figure>	
+        <div class="inside">
+            <!--320px -->
+            <img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/tablica-glagolov-petrova-image_tumli1_c_scale,w_320.jpg" class="lazyload" alt />
+			<figcaption>320px</figcaption>
+			
+            <!--2x320px=640px (DPR 2.0) -->
+            <img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/tablica-glagolov-petrova-image_tumli1_c_scale,w_640.jpg" class="lazyload" alt />	
+			<figcaption>640px</figcaption>
+			
+            <!--660px-->
+            <img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/tablica-glagolov-petrova-image_tumli1_c_scale,w_660.jpg" class="lazyload" alt />
+			<figcaption>660px</figcaption>
+
+            <!--660x2=1320px (DPR 2.0)-->
+            <img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/tablica-glagolov-petrova-image-2x.jpg" class="lazyload" alt />
+			<figcaption>1320px</figcaption>
+			
+			<!--bold 660x2=1320px (DPR 2.0)-->
+            <img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/tablica-glagolov-petrova-bold.jpg" class="lazyload" alt />
+			<figcaption>1320px bold</figcaption>
+			
+			<!--transpose 660x2=1320px (DPR 2.0)-->
+            <img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/table-base-1320px.jpg" class="lazyload" alt />
+			<figcaption>1320px transpose</figcaption>
+        </div>
+
+        <!--660x2=1320px (DPR 2.0) out of div i.e. "wild width"-->
+        <img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/tablica-glagolov-petrova-image-2x.jpg" class="lazyload" alt />
+        <figcaption>1320px</figcaption>
+		
+		<!--bold 660x2=1320px (DPR 2.0) out of div i.e. "wild width"-->
+        <img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/tablica-glagolov-petrova-bold.jpg" class="lazyload" alt />
+		<figcaption>1320px bold</figcaption>
+		
+		<!--transpose 660x2=1320px (DPR 2.0) out of div i.e. "wild width"-->
+        <img src="urok-1/tablica-glagolov-petrova-image_lq.jpg" data-src="urok-1/table-base-1320px.jpg" class="lazyload" alt />
+		<figcaption>1320px transpose</figcaption>
+    </figure>
 	
 	<!--svg 660px initial-->
 <div class="svg-container">
