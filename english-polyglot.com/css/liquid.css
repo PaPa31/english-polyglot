@@ -482,6 +482,7 @@ nav{/* padding-top: 45px; */}
 
 #google-search {min-height: 52px;float: left;}
 #new-back{padding: 40px 0;font-size: 1.3em;}
+.copyright span {display: block;}
 
 @media(min-width:240px){.lp{padding-left:10px}}
 
