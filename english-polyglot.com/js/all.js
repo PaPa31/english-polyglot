@@ -1057,16 +1057,16 @@ for (var i = 1; i < 17; i++) {
 
 // ---------------ambulance trigger initiation
 
-var css_code ='.hh1{border-radius:50%;width:130px}.strip{height:48px}';
+var css_code ='.hh1{border-radius:50%;width:130px}.strip{height:49px}';
 css_code +='.hh1::before{height:50px;transform:translate(5%,-50%);width:90%;}';
 css_code +='.hh1 strong{color:transparent;text-shadow:1px 1px 2px transparent}';
 css_code +='.hh1::after{width:50px;transform:translate(-50%,5%); height:90%;}';
-css_code +='.two-2 .line_1_2{font-size:1.2em;word-spacing:-0.3em}';
-css_code +='.two-2 .line_3_4{font-size:0.75em;word-spacing:initial}';
+css_code +='.two-2 .line_1_2{font-size:2em;word-spacing:-0.3em;line-height:0.8em;letter-spacing:-1.5px}';
+css_code +='.two-2 .line_3_4{font-size:0.75em;text-transform: lowercase;}';
 css_code +='.two-2 .line_1_2,.two-2 .line_3_4{visibility:visible;margin-top:0}';
 css_code += '.one-1 .line_1_2,.one-1 .line_3_4{color:transparent;text-shadow:1px 1px 2px transparent}';
-css_code += '@media(min-width:320px){.hh1{width:150px}.hh1::before{height:60px}.hh1::after{width:60px}.two-2 .line_1_2{font-size:1.6em}.two-2 .line_3_4{font-size:0.85em}.strip{height:55px}}';
-css_code += '@media(min-width:425px){.hh1{width:175px}.hh1::before{height:70px}.hh1::after{width:70px}.two-2 .line_1_2{font-size:2em}.two-2 .line_3_4{font-size:1em}.strip{height:62px}}';
+css_code += '@media(min-width:320px){.hh1{width:150px}.hh1::before{height:60px}.hh1::after{width:60px}.two-2 .line_1_2{font-size:2.6em}.two-2 .line_3_4{font-size:0.9em}.strip{height:55px}}';
+css_code += '@media(min-width:425px){.hh1{width:175px}.hh1::before{height:70px}.hh1::after{width:70px}.two-2 .line_1_2{font-size:4em}.two-2 .line_3_4{font-size:1.5em}.strip{height:55px}}';
 css_code += '@media(min-width:768px){.hh1{min-width:initial}}'
 
 var hover_chk=true;
