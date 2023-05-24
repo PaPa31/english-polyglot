@@ -1,21 +1,19 @@
-name: Publish Website
-on:
-  push:
-    branches:
-      - oshibka
+on: push
+name: 🚀 Deploy website on push
 jobs:
-  FTP-Deploy-Action:
-    name: FTP-Deploy-Action
+  web-deploy:
+    name: 🎉 Deploy
     if: github.ref == 'refs/heads/oshibka'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.1.0
-        with:
-          fetch-depth: 2
-      - name: FTP-Deploy-Action
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v3
+
+      - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          ftp-server: ftp://145.239.233.138:21/www/
-          ftp-username: s244556
-          ftp-password: ${{ secrets.FTP_HOSTIMAN_PASSWORD }}
-          git-ftp-args: --insecure
+          server: ftp.ns1.hostiman.ru
+          username: s244556
+          password: ${{ secrets.FTP_HOSTIMAN_PASSWORD }}
+          local-dir: ./
+          server-dir: ./www/
