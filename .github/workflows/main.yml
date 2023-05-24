@@ -17,4 +17,4 @@ jobs:
           password: ${{ secrets.FTP_HOSTIMAN_PASSWORD }}
           local-dir: ./
           server-dir: ./www/
-          protocol: ftp
+          protocol: sftp
