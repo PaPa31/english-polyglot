@@ -15,7 +15,7 @@ jobs:
       - name: FTP-Deploy-Action
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
-          ftp-server: sftp://gouverneur-morris.dreamhost.com:22/home/papa31/
-          ftp-username: papa31
-          ftp-password: ${{ secrets.SFTP_PASSWORD }}
+          ftp-server: ftp://ns1.hostiman.ru:21/www/
+          ftp-username: s244556
+          ftp-password: ${{ secrets.FTP_HOSTIMAN_PASSWORD }}
           git-ftp-args: --insecure
