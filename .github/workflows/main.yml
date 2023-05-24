@@ -12,7 +12,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: ftp.ns1.hostiman.ru
+          server: ns1.hostiman.ru
           username: s244556
           password: ${{ secrets.FTP_HOSTIMAN_PASSWORD }}
           local-dir: ./
