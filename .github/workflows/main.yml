@@ -13,9 +13,9 @@ jobs:
         with:
           fetch-depth: 2
       - name: FTP-Deploy-Action
-        uses: SamKirkland/FTP-Deploy-Action@3.1.1
+        uses: SamKirkland/FTP-Deploy-Action@4.3.4
         with:
-          ftp-server: ftp://ns1.hostiman.ru:21/www/
+          ftp-server: ftp://145.239.233.138:21/www/
           ftp-username: s244556
           ftp-password: ${{ secrets.FTP_HOSTIMAN_PASSWORD }}
           git-ftp-args: --insecure
