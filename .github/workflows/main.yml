@@ -15,4 +15,4 @@ jobs:
           server: rufree53.hostiman.ru
           username: s251329
           password: ${{ secrets.FTP_HOSTIMAN_PASSWORD }}
-          server-dir: ./www/
+          server-dir: ./
