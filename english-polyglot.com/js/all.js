@@ -71,7 +71,7 @@ function popup(
         if (url.match(/htm|http/i)) {
           newwin = window.open(url, "newwin");
         } else {
-          newwin = window.open("answer.html?v=42", "newwin");
+          newwin = window.open("answer.html?v=43", "newwin");
         }
       } else {
         var w = width || screen.width / 2,
@@ -89,7 +89,7 @@ function popup(
         if (url.match(/htm|http/i)) {
           newwin = window.open(url, "newwin", params);
         } else {
-          newwin = window.open("answer.html?v=42", "newwin", params);
+          newwin = window.open("answer.html?v=43", "newwin", params);
         }
       }
 
