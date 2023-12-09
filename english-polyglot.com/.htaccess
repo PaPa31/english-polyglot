@@ -1,18 +1,3 @@
-Options +FollowSymLinks
-#RewriteEngine On
-#RewriteCond %{HTTPS} !=on
-#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-
-# Audio
-AddType audio/ogg                      oga ogg
-AddType audio/mp4                      m4a
-
-# Video
-AddType video/ogg                      ogv
-AddType video/mp4                      mp4 m4v
-AddType video/webm                     webm
-
-AddType video/ogg .ogv
-AddType video/mp4 .mp4
-AddType video/mp4 .mov
-AddType video/webm .webm
+RewriteEngine On
+RewriteCond %{HTTP_HOST} english-polyglot.com$ [NC]
+RewriteRule ^(.*)$ https://english-polyglot.ru/$1 [R=301,L]
