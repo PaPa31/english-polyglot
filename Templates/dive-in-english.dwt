@@ -48,7 +48,7 @@
                       if (Ya.Context.AdvManager.getPlatform() === 'desktop') {
                         // вызов блока Rewarded для десктопной версии
                         Ya.Context.AdvManager.render({
-                          blockId: 'R-A-564808-10',
+                          blockId: 'R-A-564808-11',
                           type: 'rewarded',
                           platform: 'desktop',
                           onRewarded: (isRewarded) => {
