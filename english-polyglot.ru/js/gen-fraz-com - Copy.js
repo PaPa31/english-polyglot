@@ -1,4 +1,4 @@
-/*! Phrase generator v1.2 | Copyright 2012, 2015 Mr.Poligloto | www.english-polyglot.com/generator-fraz.html */
+/*! Phrase generator v1.2 | Copyright 2012, 2015 Mr.Poligloto | english-polyglot.ru/generator-fraz.html */
 
 function refreshPage() {
   jQuery.mobile.changePage(window.location.href, {
@@ -929,16 +929,16 @@ function playSound3(soundf, pap, soundr) {
         var lang = "en";
       }
       soundf = encodeURIComponent(soundf);
-      //			    document.getElementById("progress").innerHTML = 'http://www.english-polyglot.com/mobile/ttsgateway.php?ie=utf-8&tl='+lang+'&q='+soundf+' '+soundr;
+      //			    document.getElementById("progress").innerHTML = 'http://english-polyglot.ru/mobile/ttsgateway.php?ie=utf-8&tl='+lang+'&q='+soundf+' '+soundr;
 
       document.getElementById("dummy").innerHTML =
         '<audio id="my-audio">' +
-        '<source src="http://www.english-polyglot.com/mobile/ttsgateway.php?ie=utf-8&tl=' +
+        '<source src="http://english-polyglot.ru/mobile/ttsgateway.php?ie=utf-8&tl=' +
         lang +
         "&q=" +
         soundf +
         '" type="audio/mpeg" />' +
-        '<embed hidden="true" autostart="true" loop="false" src="http://www.english-polyglot.com/mobile/ttsgateway.php?ie=utf-8&tl=' +
+        '<embed hidden="true" autostart="true" loop="false" src="http://english-polyglot.ru/mobile/ttsgateway.php?ie=utf-8&tl=' +
         lang +
         "&q=" +
         soundf +
@@ -951,7 +951,7 @@ function playSound3(soundf, pap, soundr) {
       //				alert('звук с TTS. lang = '+lang+' soundf = '+ soundf);
       type_connection = "#CA332B"; //red
     }
-    //			 	http://www.english-polyglot.com/mobile/ttsgateway.php?ie=utf-8&tl=en&q=spruce
+    //			 	http://english-polyglot.ru/mobile/ttsgateway.php?ie=utf-8&tl=en&q=spruce
     //				http://translate.google.com/translate_tts?ie=utf-8&tl=en&q=spruce
   }
 

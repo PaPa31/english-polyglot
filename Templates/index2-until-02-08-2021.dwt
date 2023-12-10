@@ -7,20 +7,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 
-<link rel="apple-touch-icon" sizes="180x180" href="../english-polyglot.com/apple-touch-icon.png?v=Kmng6z9J5E" />
-<link rel="icon" type="image/png" sizes="32x32" href="../english-polyglot.com/favicon-32x32.png?v=Kmng6z9J5E" />
-<link rel="icon" type="image/png" sizes="194x194" href="../english-polyglot.com/favicon-194x194.png?v=Kmng6z9J5E" />
-<link rel="icon" type="image/png" sizes="192x192" href="../english-polyglot.com/android-chrome-192x192.png?v=Kmng6z9J5E" />
-<link rel="icon" type="image/png" sizes="16x16" href="../english-polyglot.com/favicon-16x16.png?v=Kmng6z9J5E" />
-<link rel="manifest" href="../english-polyglot.com/site.webmanifest?v=Kmng6z9J5E" />
-<link rel="mask-icon" href="../english-polyglot.com/safari-pinned-tab.svg?v=Kmng6z9J5E" color="#5c5c5c" />
-<link rel="shortcut icon" href="../english-polyglot.com/favicon.ico?v=Kmng6z9J5E1" />
+<link rel="apple-touch-icon" sizes="180x180" href="../english-polyglot.ru/apple-touch-icon.png?v=Kmng6z9J5E" />
+<link rel="icon" type="image/png" sizes="32x32" href="../english-polyglot.ru/favicon-32x32.png?v=Kmng6z9J5E" />
+<link rel="icon" type="image/png" sizes="194x194" href="../english-polyglot.ru/favicon-194x194.png?v=Kmng6z9J5E" />
+<link rel="icon" type="image/png" sizes="192x192" href="../english-polyglot.ru/android-chrome-192x192.png?v=Kmng6z9J5E" />
+<link rel="icon" type="image/png" sizes="16x16" href="../english-polyglot.ru/favicon-16x16.png?v=Kmng6z9J5E" />
+<link rel="manifest" href="../english-polyglot.ru/site.webmanifest?v=Kmng6z9J5E" />
+<link rel="mask-icon" href="../english-polyglot.ru/safari-pinned-tab.svg?v=Kmng6z9J5E" color="#5c5c5c" />
+<link rel="shortcut icon" href="../english-polyglot.ru/favicon.ico?v=Kmng6z9J5E1" />
 <meta name="apple-mobile-web-app-title" content="Polyglot: English in 16 hours" />
 <meta name="application-name" content="Polyglot: English in 16 hours" />
 <meta name="msapplication-TileColor" content="#560909" />
-<meta name="msapplication-TileImage" content="../english-polyglot.com/mstile-144x144.png?v=Kmng6z9J5E" />
+<meta name="msapplication-TileImage" content="../english-polyglot.ru/mstile-144x144.png?v=Kmng6z9J5E" />
 <meta name="msapplication-config" content="browserconfig.xml"/>
-<meta name="msapplication-starturl" content="https://www.english-polyglot.com" />
+<meta name="msapplication-starturl" content="https://english-polyglot.ru" />
 <meta name="theme-color" content="#560909" />
 
 <link rel="alternate" type="application/rss+xml" title="English in 16 hours" href="https://feeds.feedburner.com/poliglott" />
@@ -35,8 +35,8 @@
 <!-- TemplateBeginEditable name="doctitle" -->
 <meta name="Keywords" content="Программа Полиглот, Выучим английский язык за 16 часов, Дмитрий Петров, Телеканал Культура" />
 
-<link rel="canonical" href="https://www.english-polyglot.com" />
-<meta property="og:url" content="https://www.english-polyglot.com" />
+<link rel="canonical" href="https://english-polyglot.ru" />
+<meta property="og:url" content="https://english-polyglot.ru" />
 
 <title>Полиглот - выучим английский язык за 16 часов</title>
 
@@ -44,8 +44,8 @@
 
 <meta property="og:image:width" content="247" />
 <meta property="og:image:height" content="370" />
-<meta property="og:image" content="https://www.english-polyglot.com/img/dmitry-petrov-image-247x370.jpg" />
-<link itemprop="image" href="//www.english-polyglot.com/img/dmitry-petrov-image-247x370.jpg" />
+<meta property="og:image" content="https://english-polyglot.ru/img/dmitry-petrov-image-247x370.jpg" />
+<link itemprop="image" href="//english-polyglot.ru/img/dmitry-petrov-image-247x370.jpg" />
 
 <meta name="Description" content="Полиглот - выучим английский язык за 16 часов" />
 <meta property="og:description" itemprop="description" content="Полиглот - выучим английский язык за 16 часов" />
@@ -64,13 +64,13 @@
 .scroll-to-top,.donateButton{display:none}
 </style>
 <style id="pixelated"></style>
-<link href="../english-polyglot.com/css/liquid.css?v=Kmng6z9J5E" rel="stylesheet" type="text/css" />
-<!--<link href="../english-polyglot.com/css/red-placeholder.css" rel="stylesheet" type="text/css" />-->
+<link href="../english-polyglot.ru/css/liquid.css?v=Kmng6z9J5E" rel="stylesheet" type="text/css" />
+<!--<link href="../english-polyglot.ru/css/red-placeholder.css" rel="stylesheet" type="text/css" />-->
 <style id="ambulance-trigger"></style>
 
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
-<!--<script type="text/javascript" src="../english-polyglot.com/js/ads.js"></script>-->
+<!--<script type="text/javascript" src="../english-polyglot.ru/js/ads.js"></script>-->
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
@@ -83,7 +83,7 @@
 
 </head>
 
-<body oncopy="if(!copyPast){copyPast=true;alert('Пожалуйста, при копировании ставьте обратную ссылку на источник: '+'https://www.english-polyglot.com')}">
+<body oncopy="if(!copyPast){copyPast=true;alert('Пожалуйста, при копировании ставьте обратную ссылку на источник: '+'https://english-polyglot.ru')}">
 
     <!--Google Analitics don`t touch it`s asynchronous-->
     <!-- #BeginLibraryItem "/Library/analitics+.lbi" -->
@@ -124,9 +124,9 @@
 				<!-- TemplateEndEditable -->
                 <div id="header" class="menu">
                     <ul>
-                        <li><a id="m1" href="../english-polyglot.com/generator-fraz.html">Генератор фраз</a></li>
-                        <li><a id="m2" href="../english-polyglot.com/tablicy.html">Таблицы Полиглот</a></li>
-                        <li><a id="m3" href="../english-polyglot.com/filmy.html">Фрагменты фильмов</a></li>
+                        <li><a id="m1" href="../english-polyglot.ru/generator-fraz.html">Генератор фраз</a></li>
+                        <li><a id="m2" href="../english-polyglot.ru/tablicy.html">Таблицы Полиглот</a></li>
+                        <li><a id="m3" href="../english-polyglot.ru/filmy.html">Фрагменты фильмов</a></li>
                         <li><a id="m4" href="#menu_uroki">16 Уроков Полиглот</a></li>
                     </ul>
                 </div>
@@ -216,7 +216,7 @@
                                             <input type="hidden" value="poliglott" name="uri" />
                                             <input type="hidden" value="poliglott-narod" name="title" />
                                             <input type="hidden" name="loc" value="ru_RU" />
-                                            <input type="image" class="subscribepost pixel" value="Subscribe" src="../english-polyglot.com/img/subscribe-button-4.png" alt="Subscribe button" title="Когда будет готов новый урок,  на вашу почту придет письмо" align="top" />
+                                            <input type="image" class="subscribepost pixel" value="Subscribe" src="../english-polyglot.ru/img/subscribe-button-4.png" alt="Subscribe button" title="Когда будет готов новый урок,  на вашу почту придет письмо" align="top" />
                                         </form>
                                     </div>
                                 </div>
@@ -240,21 +240,21 @@
                     </div>
                     <div class="sidebar_inner">
                         <ul id="new-back" class="nav">
-                            <li><a href="../english-polyglot.com/poligloto.html" title="Оставьте своё  пожелание">Обратная<br>
+                            <li><a href="../english-polyglot.ru/poligloto.html" title="Оставьте своё  пожелание">Обратная<br>
                                 связь</a></li>
                         </ul>
                         <h3><strong>16 уроков Полиглот:</strong></h3>
                         <ul id="menu_uroki" class="nav" name="menu_uroki">
                             <li><a id="a1" href="/">1 урок Полиглот<em>Базовая таблица глаголов Дмитрия Петрова</em></a></li>
-                            <li><a id="a2" href="../english-polyglot.com/urok-2.html">2 урок Полиглот<em>Соединяем местоимения и предлоги</em></a></li>
-                            <li><a id="a3" href="../english-polyglot.com/urok-3.html">3 урок Полиглот<em>Таблица глагола to be</em></a></li>
-                            <li><a id="a4" href="../english-polyglot.com/urok-4.html">4 урок Полиглот<em>Как сказать по-английски о себе</em></a></li>
-                            <li><a id="a5" href="../english-polyglot.com/urok-5.html">5 урок Полиглот<em>Прилагательные и промежутки времени в английском</em></a></li>
-                            <li><a id="a6" href="../english-polyglot.com/urok-6.html">6 урок Полиглот<em>Как поддержать диалог на английском</em></a></li>
-                            <li><a id="a7" href="../english-polyglot.com/urok-7.html">7 урок Полиглот<em>Упрощенная таблица глаголов</em></a></li>
-                            <li><a id="a8" href="../english-polyglot.com/urok-8.html">8 урок Полиглот<em>Предлоги места и направления</em></a></li>
-                            <li><a id="a9" href="../english-polyglot.com/urok-9.html">9 урок Полиглот<em>Четыре истории на английском</em></a></li>
-                            <li><a id="a10" href="../english-polyglot.com/urok-10.html">10 урок Полиглот<em>За кулисами культурной жизни</em></a></li>
+                            <li><a id="a2" href="../english-polyglot.ru/urok-2.html">2 урок Полиглот<em>Соединяем местоимения и предлоги</em></a></li>
+                            <li><a id="a3" href="../english-polyglot.ru/urok-3.html">3 урок Полиглот<em>Таблица глагола to be</em></a></li>
+                            <li><a id="a4" href="../english-polyglot.ru/urok-4.html">4 урок Полиглот<em>Как сказать по-английски о себе</em></a></li>
+                            <li><a id="a5" href="../english-polyglot.ru/urok-5.html">5 урок Полиглот<em>Прилагательные и промежутки времени в английском</em></a></li>
+                            <li><a id="a6" href="../english-polyglot.ru/urok-6.html">6 урок Полиглот<em>Как поддержать диалог на английском</em></a></li>
+                            <li><a id="a7" href="../english-polyglot.ru/urok-7.html">7 урок Полиглот<em>Упрощенная таблица глаголов</em></a></li>
+                            <li><a id="a8" href="../english-polyglot.ru/urok-8.html">8 урок Полиглот<em>Предлоги места и направления</em></a></li>
+                            <li><a id="a9" href="../english-polyglot.ru/urok-9.html">9 урок Полиглот<em>Четыре истории на английском</em></a></li>
+                            <li><a id="a10" href="../english-polyglot.ru/urok-10.html">10 урок Полиглот<em>За кулисами культурной жизни</em></a></li>
                         </ul>
                         <ul class="nav notready">
                             <li><a id="a11" href="javascript: void(0)" title="Извините, материалы  готовятся к публикации">11 урок Полиглот</a></li>
@@ -271,11 +271,11 @@
             <button id="stt" class="scroll-to-top rotate"><a id="stt2" href="#top_doc" style="width:50px;height:50px;display:block"></a></button>
             <div id="dbt" class="donateButton">
                 <div class="donate_cap">Пожалуйста, непремените помочь мне</div>
-                <a href="../english-polyglot.com/donate.html">
+                <a href="../english-polyglot.ru/donate.html">
                     <img style="width:100%" class="lazyload" data-src="img/pomosh.gif" alt="Помощь сайту" />
                 </a>
                 <div class="donate_cap">
-                    &nbsp;<a style="color:#0000FF" href="../english-polyglot.com/donate.html">Здесь</a> одна из причин зачем.
+                    &nbsp;<a style="color:#0000FF" href="../english-polyglot.ru/donate.html">Здесь</a> одна из причин зачем.
                 </div>
                 <div class="border_donate_dynamic_block">
                     <div><img class="lazyload" src="img/qiwi.png"  alt="qiwi logo png" />
@@ -299,7 +299,7 @@
                         <input type="hidden" name="need-phone" value="false" />
                         <input type="hidden" name="need-address" value="false" />
                         <input class="submit" type="submit" value="Оплатить" />
-                        <!--<input type="image" class="submit pixel" value="Оплатить" src="../english-polyglot.com/img/oplatit-button-1.png" alt="Кнопка оплатить"/>-->
+                        <!--<input type="image" class="submit pixel" value="Оплатить" src="../english-polyglot.ru/img/oplatit-button-1.png" alt="Кнопка оплатить"/>-->
 
                         <label><input type="radio" name="paymentType" value="AC" checked />Банковской картой</label>
                         <label><input type="radio" name="paymentType" value="MC" />C баланса мобильного</label>
@@ -311,8 +311,8 @@
                     <form id="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                         <input type="hidden" name="cmd" value="_s-xclick" />
                         <input type="hidden" name="hosted_button_id" value="ATYY6CHJYAW5W" />
-                        <input type="hidden" name="item_name" value="www.english-polyglot.com" />
-                        <input type="image" class="submit" src="../english-polyglot.com/img/btn_donate_LG.gif" border="0" name="submit" alt="Donate button" />
+                        <input type="hidden" name="item_name" value="english-polyglot.ru" />
+                        <input type="image" class="submit" src="../english-polyglot.ru/img/btn_donate_LG.gif" border="0" name="submit" alt="Donate button" />
                     </form>
                 </div>
             </div>
@@ -325,14 +325,14 @@
         <span id="dummy"></span>
     </div>
     <div class="extra"></div>
-    <script src="../english-polyglot.com/js/lazysizes.min.js" async></script>
-    <script src="../english-polyglot.com/js/all.js" type="text/javascript" async></script>
-    <script src="../english-polyglot.com/js/init.js" type="text/javascript" async></script>
+    <script src="../english-polyglot.ru/js/lazysizes.min.js" async></script>
+    <script src="../english-polyglot.ru/js/all.js" type="text/javascript" async></script>
+    <script src="../english-polyglot.ru/js/init.js" type="text/javascript" async></script>
     <!-- Images End -->
 </body>
 
 
-<!--<script type="text/javascript" src="../english-polyglot.com/js/modal.js"></script>-->
+<!--<script type="text/javascript" src="../english-polyglot.ru/js/modal.js"></script>-->
 <!-- TemplateBeginEditable name="Script" -->
 <!-- TemplateEndEditable -->
 

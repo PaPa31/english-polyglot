@@ -1,4 +1,4 @@
-/*! Phrase generator v1.3 | Copyright 2012, 2019 Mr.Poligloto | www.english-polyglot.com/generator-fraz.html */
+/*! Phrase generator v1.3 | Copyright 2012, 2019 Mr.Poligloto | english-polyglot.ru/generator-fraz.html */
 
 var message_top = "",
   message_bottom = "";
@@ -1159,7 +1159,7 @@ function playSound3(soundf, pap, soundr) {
       } else {
         slovo = soundf;
         var url1 =
-          "http://www.english-polyglot.com/mobile/ttsgateway.php?tl=" +
+          "http://english-polyglot.ru/mobile/ttsgateway.php?tl=" +
           lang +
           "&q=" +
           soundf +

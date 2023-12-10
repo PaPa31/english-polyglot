@@ -1,4 +1,4 @@
-/*! Phrase generator v1.2 | Copyright 2012, 2015 Mr.Poligloto | www.english-polyglot.com/generator-fraz.html */
+/*! Phrase generator v1.2 | Copyright 2012, 2015 Mr.Poligloto | english-polyglot.ru/generator-fraz.html */
 
 var message_top = "",
   message_bottom = "";
@@ -1009,12 +1009,12 @@ function playSound3(soundf, pap, soundr) {
       soundf = encodeURIComponent(soundf);
       document.getElementById("dummy").innerHTML =
         '<audio id="my-audio">' +
-        '<source src="http://www.english-polyglot.com/mobile/ttsgateway.php?ie=utf-8&tl=' +
+        '<source src="http://english-polyglot.ru/mobile/ttsgateway.php?ie=utf-8&tl=' +
         lang +
         "&q=" +
         soundf +
         '" type="audio/mpeg" />' +
-        '<embed hidden="true" autostart="true" loop="false" src="http://www.english-polyglot.com/mobile/ttsgateway.php?ie=utf-8&tl=' +
+        '<embed hidden="true" autostart="true" loop="false" src="http://english-polyglot.ru/mobile/ttsgateway.php?ie=utf-8&tl=' +
         lang +
         "&q=" +
         soundf +

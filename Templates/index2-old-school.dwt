@@ -4,17 +4,17 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=no">
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-precomposed.png" />
-<link rel="shortcut icon" type="image/x-icon" href="../english-polyglot.com/img/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../english-polyglot.ru/img/favicon.ico" />
 <link rel="alternate" type="application/rss+xml" title="English in 16 hours" href="http://feeds.feedburner.com/poliglott">
 <!-- TemplateBeginEditable name="doctitle" --> 
 <meta name='yandex-verification' content='630e7331c3ee87c2' />
 <meta name="Description" content="По многочисленным просьбам изучающих английский язык, материалы уроков Полиглот преобразованы в интерактивную форму, дополнены генераторами фраз и отрывками фильмов" />
 <meta name="Keywords" content="английский язык, полиглот английский, английский онлайн, курсы английского языка, полиглот английский за 16, уроки английского, изучение английского языка, полиглот петров, культура полиглот английский, полиглот 16" />
 <title>Материалы уроков Полиглот</title>
- <link rel="canonical" href="//www.english-polyglot.com" /> 
+ <link rel="canonical" href="//english-polyglot.ru" /> 
 <!-- TemplateEndEditable -->
-<link href="../english-polyglot.com/css/liquid.css" rel="stylesheet" type="text/css" />
-<script src="../english-polyglot.com/js/all.js" type="text/javascript"></script>
+<link href="../english-polyglot.ru/css/liquid.css" rel="stylesheet" type="text/css" />
+<script src="../english-polyglot.ru/js/all.js" type="text/javascript"></script>
 <!--Google Analitics don`t touch it`s asynchronous-->
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -53,10 +53,10 @@
 	<!-- #BeginLibraryItem "/Library/menu-horizont.lbi" -->
 	<div class="menu">
 	  <ul>
-	    <li><a href="../english-polyglot.com/generatory-fraz.html">Генераторы фраз</a></li>
-	    <li><a href="../english-polyglot.com/tablicy.html">Таблицы Полиглот</a></li>
-	   <li><a href="../english-polyglot.com/filmy.html">Фрагменты фильмов</a></li>
-       <!--<li><a href="../english-polyglot.com/obshenie.html">Общение</a></li>-->
+	    <li><a href="../english-polyglot.ru/generatory-fraz.html">Генераторы фраз</a></li>
+	    <li><a href="../english-polyglot.ru/tablicy.html">Таблицы Полиглот</a></li>
+	   <li><a href="../english-polyglot.ru/filmy.html">Фрагменты фильмов</a></li>
+       <!--<li><a href="../english-polyglot.ru/obshenie.html">Общение</a></li>-->
        <!--<li><a href="http://www.youtube.com/user/DmitryPetrovKultura" target="_blank" rel="nofollow">Видео Полиглот</a></li>-->
 	    
 	       
@@ -91,7 +91,7 @@
  Как построить фразу на английском</h2>
  
  <div class="video_center">
-  <div class="img_border"><img id="foto_hero" src="../english-polyglot.com/img/dmitry-petrov-image-680.jpg" alt="Дмитрий Петров" title="Дмитрий Петров Полиглот"/></div>
+  <div class="img_border"><img id="foto_hero" src="../english-polyglot.ru/img/dmitry-petrov-image-680.jpg" alt="Дмитрий Петров" title="Дмитрий Петров Полиглот"/></div>
       <div class="wrap_txt_center"><strong>Дмитрий Петров (программа Полиглот)</strong><br /></div>
 		
         
@@ -111,7 +111,7 @@
   </div>
   <div class="clearfloat"></div>
          <div class="bottleDoor">&nbsp;</div>
-         <div class="video_center"> <img  id="foto_hero" src="../english-polyglot.com/img/red-tablica-glagolov-petrova-image.gif" alt="Базовая таблица глаголов Петрова" style="max-width:384px"/> </div> <div class="wrap_txt_center"><strong>Базовая таблица глаголов Петрова</strong><br /></div>
+         <div class="video_center"> <img  id="foto_hero" src="../english-polyglot.ru/img/red-tablica-glagolov-petrova-image.gif" alt="Базовая таблица глаголов Петрова" style="max-width:384px"/> </div> <div class="wrap_txt_center"><strong>Базовая таблица глаголов Петрова</strong><br /></div>
    
  </div>
  
@@ -220,7 +220,7 @@
         
        
         <div class="video_center"><a href="javascript: void(0)"
-   onclick="popup('img/tablica-glagolov-petrova-image.gif', 660, 543, 'Таблица английских глаголов по методике Петрова')"><img id="foto_hero1" src="../english-polyglot.com/img/tablica-glagolov-petrova-image-black.gif" alt="Базовая таблица глаголов Петрова" title="Нажмите чтобы увидеть  таблицу на белом фоне"/></a></div>
+   onclick="popup('img/tablica-glagolov-petrova-image.gif', 660, 543, 'Таблица английских глаголов по методике Петрова')"><img id="foto_hero1" src="../english-polyglot.ru/img/tablica-glagolov-petrova-image-black.gif" alt="Базовая таблица глаголов Петрова" title="Нажмите чтобы увидеть  таблицу на белом фоне"/></a></div>
    <div class="wrap_txt_center"><strong>Базовая таблица глаголов Петрова</strong><br /></div>
    
   <div class="history"> 
@@ -687,7 +687,7 @@ onload = function() {
     <input type="hidden" value="poliglott" name="uri"/>
     <input type="hidden" value="poliglott-narod" name="title"/>
     <input type="hidden" name="loc" value="ru_RU"/>
-    <input type="image" class="subscribepost"  value="Subscribe" src="../english-polyglot.com/img/subscribe-button.png" alt="Когда будет готов новый урок  на вашу почту придет письмо" title="Когда будет готов новый урок  на вашу почту придет письмо"
+    <input type="image" class="subscribepost"  value="Subscribe" src="../english-polyglot.ru/img/subscribe-button.png" alt="Когда будет готов новый урок  на вашу почту придет письмо" title="Когда будет готов новый урок  на вашу почту придет письмо"
     align="top"/>
     </form>
 
@@ -700,7 +700,7 @@ onload = function() {
 <!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/donate.lbi" -->
   <div class="clearfloat"></div>
 <div class="wrap_txt_center">Вам показался полезным материал?<br>
-<a href="../english-polyglot.com/donate.html" title="Помощь сайту"> Поддержите автора!!</a></div>
+<a href="../english-polyglot.ru/donate.html" title="Помощь сайту"> Поддержите автора!!</a></div>
 
 <div class="share_center"><div id="share">
 <a id="lkr-v" href="javascript:void(0)" onclick="return Share.go(this, 'vkontakte')"></a>
@@ -715,16 +715,16 @@ onload = function() {
 <div style="margin-top:-5px; font-size:75%; clear:both;text-align:center;">Поделитесь этой страничкой с друзьями!</div>
 
 <div class="clearfloat"></div><!-- #BeginLibraryItem "/Library/neocenimaya-pomosh.lbi" -->
-<div id="out" class="round">Вы окажете неоценимую помощь автору сайта, если найдете время, чтобы разместить на Вашем сайте активную гиперссылку на сайт www.english-polyglot.com.
+<div id="out" class="round">Вы окажете неоценимую помощь автору сайта, если найдете время, чтобы разместить на Вашем сайте активную гиперссылку на сайт english-polyglot.ru.
 
 <br><br>
 
 Просто скопируйте и вставьте на Вашу страницу код: 
-<textarea rows="2" style="max-width:300px; width:60%">&lt;a href="http://www.english-polyglot.com" &gt;полиглот английский язык&lt;/a&gt;
+<textarea rows="2" style="max-width:300px; width:60%">&lt;a href="http://english-polyglot.ru" &gt;полиглот английский язык&lt;/a&gt;
 </textarea></div><!-- #EndLibraryItem --><div class="bottleDoor">&nbsp;</div>
 
   <div class="img_border"><div class="embed-container" style="padding-bottom:50%; margin:0; border: #666 1px solid;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="help" align="middle" width="680" height="370">
-				<param name="movie" value="../english-polyglot.com/img/help.swf" />
+				<param name="movie" value="../english-polyglot.ru/img/help.swf" />
 				<param name="quality" value="high" />
 				<param name="bgcolor" value="#ffffff" />
 				<param name="play" value="true" />
@@ -736,8 +736,8 @@ onload = function() {
 				<param name="salign" value="" />
 				<param name="allowScriptAccess" value="sameDomain" />
 				<!--[if !IE]>-->
-				<object type="application/x-shockwave-flash" data="../english-polyglot.com/img/help.swf" width="680" height="370">
-					<param name="movie" value="../english-polyglot.com/img/help.swf" />
+				<object type="application/x-shockwave-flash" data="../english-polyglot.ru/img/help.swf" width="680" height="370">
+					<param name="movie" value="../english-polyglot.ru/img/help.swf" />
 					<param name="quality" value="high" />
 					<param name="bgcolor" value="#ffffff" />
 					<param name="play" value="true" />
@@ -751,7 +751,7 @@ onload = function() {
 				<!--<![endif]-->
 					
               
-              <a href="../english-polyglot.com/donate.html" title="Помощь сайту" target="_blank"><img class="donate_img" src="../english-polyglot.com/img/help.gif" alt="Помощь сайту" />           </a>
+              <a href="../english-polyglot.ru/donate.html" title="Помощь сайту" target="_blank"><img class="donate_img" src="../english-polyglot.ru/img/help.gif" alt="Помощь сайту" />           </a>
             
 				<!--[if !IE]>-->
 				</object>
@@ -763,15 +763,15 @@ onload = function() {
   </div>
 <div class="sidebar1"><!-- #BeginLibraryItem "/Library/menu.lbi" --><ul class="nav">
       <li><a href="/">1 урок</a></li>
-      <li><a href="../english-polyglot.com/urok-2.html">2 урок</a></li>
-      <li><a href="../english-polyglot.com/urok-3.html">3 урок</a></li>
-      <li><a href="../english-polyglot.com/urok-4.html">4 урок</a></li>
-      <li><a href="../english-polyglot.com/urok-5.html">5 урок</a></li>
-      <li><a href="../english-polyglot.com/urok-6.html">6 урок</a></li>
-      <li><a href="../english-polyglot.com/urok-7.html">7 урок</a></li>
-      <li><a href="../english-polyglot.com/urok-8.html">8 урок</a></li>
-      <li><a href="../english-polyglot.com/urok-9.html">9 урок</a></li>
-      <li><a href="../english-polyglot.com/urok-10.html">10 урок</a></li>
+      <li><a href="../english-polyglot.ru/urok-2.html">2 урок</a></li>
+      <li><a href="../english-polyglot.ru/urok-3.html">3 урок</a></li>
+      <li><a href="../english-polyglot.ru/urok-4.html">4 урок</a></li>
+      <li><a href="../english-polyglot.ru/urok-5.html">5 урок</a></li>
+      <li><a href="../english-polyglot.ru/urok-6.html">6 урок</a></li>
+      <li><a href="../english-polyglot.ru/urok-7.html">7 урок</a></li>
+      <li><a href="../english-polyglot.ru/urok-8.html">8 урок</a></li>
+      <li><a href="../english-polyglot.ru/urok-9.html">9 урок</a></li>
+      <li><a href="../english-polyglot.ru/urok-10.html">10 урок</a></li>
     </ul>
     <ul class="nav1">
       
@@ -801,7 +801,7 @@ onload = function() {
     <div class="bottleDoor">&nbsp;</div>
 <ul class="nav">
       
-  <li><a href="../english-polyglot.com/poligloto.html" title="Оставьте своё пожелание">Обратная связь</a></li>
+  <li><a href="../english-polyglot.ru/poligloto.html" title="Оставьте своё пожелание">Обратная связь</a></li>
     </ul><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/metrika.lbi" --><div class="nav-text">Подписка на обновления</div>
 <noindex>
 <div class="video_center"><div id="share" class="share_metrika">

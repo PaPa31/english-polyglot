@@ -648,12 +648,12 @@ function playSound(anchor) {
 
       document.getElementById("dummy").innerHTML =
         '<audio id="my-audio">' +
-        '<source src="http://www.english-polyglot.com/mobile/ttsgateway.php?ie=utf-8&tl=' +
+        '<source src="http://english-polyglot.ru/mobile/ttsgateway.php?ie=utf-8&tl=' +
         lang +
         "&q=" +
         soundf +
         '" type="audio/mpeg" />' +
-        '<embed hidden="true" autostart="true" loop="false" src="http://www.english-polyglot.com/mobile/ttsgateway.php?ie=utf-8&tl=' +
+        '<embed hidden="true" autostart="true" loop="false" src="http://english-polyglot.ru/mobile/ttsgateway.php?ie=utf-8&tl=' +
         lang +
         "&q=" +
         soundf +

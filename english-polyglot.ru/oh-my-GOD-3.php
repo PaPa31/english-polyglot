@@ -599,7 +599,7 @@ function playWord3(soundf, pap, soundr) {
 				token = fM(soundf);
 				soundf=encodeURIComponent(soundf);
 				
-				var url1='http://www.english-polyglot.com/mobile/ttsgateway.php?tl='+lang+'&q='+soundf+'&tk='+token;
+				var url1='http://english-polyglot.ru/mobile/ttsgateway.php?tl='+lang+'&q='+soundf+'&tk='+token;
 				document.getElementById("dummy").innerHTML=
 				'<audio id="my-audio">'+
 				'<source src="'+url1+'" type="audio/mpeg" />'+
