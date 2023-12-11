@@ -42,43 +42,24 @@
       window.yaContextCb = window.yaContextCb || [];
     </script>
     <script src="https://yandex.ru/ads/system/context.js" async></script>
-	<!-- Yandex.RTB R-A-564808-10 -->
-                <script>
-                  window.yaContextCb.push(() => {
-                      if (Ya.Context.AdvManager.getPlatform() === 'desktop') {
-                        // вызов блока Rewarded для десктопной версии
-                        Ya.Context.AdvManager.render({
-                          blockId: 'R-A-564808-11',
-                          type: 'rewarded',
-                          platform: 'desktop',
-                          onRewarded: (isRewarded) => {
-                              if (isRewarded) {
-                                  // условие получения награды выполнено
-								  console.log('условие выполнено (десктоп)')
-                              } else {
-                                  // условие получения награды не выполнено
-								  console.log('условие не выполнено (десктоп)')
-                              }
-                          }
-                        });
-                      } else {
-                        // вызов блока Rewarded для мобильной версии
-                        Ya.Context.AdvManager.render({
-                          blockId: 'R-A-564808-10',
-                          type: 'rewarded',
-                          platform: 'touch',
-                          onRewarded: (isRewarded) => {
-                              if (isRewarded) {
-                                  // условие получения награды выполнено
-								  console.log('условие выполнено (мобайл)')
-                              } else {
-                                  // условие получения награды не выполнено
-								  console.log('условие не выполнено (мобайл)')
-                              }
-                          }
-                        });
-                      }
-                  });
+    <script>
+      window.yaContextCb.push(() => {
+          if (Ya.Context.AdvManager.getPlatform() === 'desktop') {
+            // вызов полноэкранного блока для десктопной версии
+            Ya.Context.AdvManager.render({
+                "blockId": "R-A-4365723-4",
+                "type": "fullscreen",
+                "platform": "desktop"
+            })
+          } else {
+            // вызов полноэкранного блока для мобильной версии
+            Ya.Context.AdvManager.render({
+                "blockId": "R-A-4365723-3",
+                "type": "fullscreen",
+                "platform": "touch"
+            })
+          }
+      });
     </script>
   </head>
   <body>
