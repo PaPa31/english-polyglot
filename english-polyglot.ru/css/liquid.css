@@ -1770,10 +1770,12 @@ header {
   font-size: 0.8em;
   padding-bottom: 13px;
   max-width: 75px;
+  margin: 0 auto;
 }
 .two-2.line_1_2 .second-span {
   max-width: 83px;
   padding-top: 15px;
+  margin: 0 auto;
 }
 
 .wrap_txt div {
