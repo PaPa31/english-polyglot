@@ -1855,7 +1855,7 @@ nav h2 {
   display: block;
 }
 .fr1 {
-  padding-bottom: 62.25%;
+  padding-bottom: 64%;
   margin: 0;
 }
 .fb-embed {
@@ -1926,7 +1926,7 @@ nav h2 {
     width: 80px;
   }
   .fr1 {
-    padding-bottom: 65%;
+    padding-bottom: 67.3%;
   }
 }
 
@@ -2013,7 +2013,7 @@ nav h2 {
     padding: 0;
   } */
   .fr1 {
-    padding-bottom: 67%;
+    padding-bottom: 69%;
   }
   .dv40,
   .tr50 {
@@ -2022,7 +2022,7 @@ nav h2 {
 }
 @media (min-width: 540px) {
   .fr1 {
-    padding-bottom: 69%;
+    padding-bottom: 69.5%;
   }
 }
 @media (max-width: 500px) {
@@ -2080,7 +2080,7 @@ nav h2 {
     font-size: 0.4em;
   }
   .fr1 {
-    padding-bottom: 70%;
+    padding-bottom: 70.3%;
   }
 }
 
@@ -2134,7 +2134,7 @@ nav h2 {
     padding-left: 30px;
   }
   .fr1 {
-    padding-bottom: 70.5%;
+    padding-bottom: 71.4%;
   }
 }
 
@@ -2290,7 +2290,7 @@ input.subscribepost:hover{opacity:0.9}
     width: 100%;
   }
   .fr1 {
-    padding-bottom: 71.5%;
+    padding-bottom: 71.6%;
   }
 }
 
